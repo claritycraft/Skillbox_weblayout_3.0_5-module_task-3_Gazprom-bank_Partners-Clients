@@ -1,4 +1,4 @@
-# Skillbox_weblayout_3.0_5-module_task-3_Gazprom-bank_Partners-Clients
+# Skillbox_weblayout_3.0_Module-5_task-3_Gazprom-bank_Partners-Clients
 
 Completed coursework for the Skillbox Web Development 3.0 course, Module 5, Assignment 3: Double-page layout for the Gazprombank site for Partners and Clients. Готовая учебная работа по курсу от Skillbox Веб разработка 3.0 Модуль 5, задание 3. Макет двух страниц Газпром банк для партнеров и клиентов.
 
