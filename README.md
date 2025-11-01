@@ -1,4 +1,5 @@
-# Skillbox_weblayout_3.0_Module-5_task-3_Gazprom-bank_Partners-Clients
+# En: Skillbox_weblayout_3.0_Module-5_task-3_Gazprom-bank_Partners-Clients
+# Ru: Skillbox_weblayout_3.0_Модуль-5_Задание-3_Газпромбанк_Партнёры-Клиенты
 
 #### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
 #### Please give this project a star ⭐ if you found it interesting.
