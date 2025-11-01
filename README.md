@@ -32,6 +32,7 @@ This project is for educational purposes only. Do not copy or redistribute witho
 ## Ru: Лицензия
 Этот проект предназначен исключительно для образовательных целей. Не копируйте и не распространяйте без разрешения.
 
+
 ## En: Site Gazprom bank / Ru: Сайт Газпром бaнк
 
 ![Gazprom Pay - Партнерам- Газпромбанк](https://github.com/user-attachments/assets/adce83c2-d7db-4926-bac2-2487de9185ed)
