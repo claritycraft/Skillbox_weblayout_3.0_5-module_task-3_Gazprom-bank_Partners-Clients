@@ -17,17 +17,23 @@ En: Portfolio layout link: https://www.figma.com/design/UyCvNmvTXrGgajdKsAHvsQ/%
 
 Ru: Ссылка на макет c портфолио: https://www.figma.com/design/UyCvNmvTXrGgajdKsAHvsQ/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%94%D0%BE%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8-FWEB-5358?node-id=1-3&p=f&t=esV7nt7zLNr93uFk-0
 
-## Technologies Used
+## En: Technologies Used
+## Ru: Используемые технологии
+
 - HTML5
 - CSS3
 - Flexbox / Grid
 - Media Queries
 - Figma (design mockup)
 
-## License
+## En: License
 This project is for educational purposes only. Do not copy or redistribute without permission.
 
-## Gazprom site
+## Ru: Лицензия
+Этот проект предназначен исключительно для образовательных целей. Не копируйте и не распространяйте без разрешения.
+
+## En: Site Gazprom bank / Ru: Сайт Газпром бaнк
+
 ![Gazprom Pay - Партнерам- Газпромбанк](https://github.com/user-attachments/assets/adce83c2-d7db-4926-bac2-2487de9185ed)
 
 ![Gazprom Pay - Клиентам- Газпромбанк](https://github.com/user-attachments/assets/c953d6f7-9ab4-4898-acd8-cbd26bbf8b4d)
